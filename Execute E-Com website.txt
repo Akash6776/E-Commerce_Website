@@ -1,0 +1,7 @@
+Execute E-Com website
+
+Steps-(run in seperate terminals):--
+1. run admin terminal: npm run dev
+2. run backend terminal: node .\index.js
+3. run frontend terminal: npm start
+4. run payment terminal: npm start
